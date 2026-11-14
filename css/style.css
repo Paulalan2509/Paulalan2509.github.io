@@ -242,3 +242,5 @@ input:focus, select:focus, textarea:focus { outline: 3px solid #d99b37; outline-
   .js .reveal { opacity: 1; transform: none; }
   .btn:hover, .card:hover, .shot:hover, .wa-float:hover { transform: none !important; }
 }
+
+.links{display:flex;flex-wrap:wrap;gap:.6rem 1.6rem;align-items:center}
